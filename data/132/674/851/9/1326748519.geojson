@@ -41,7 +41,7 @@
         "gn:id":874872
     },
     "wof:country":"GE",
-    "wof:geomhash":"15c2fee59733151238f321675b768614",
+    "wof:geomhash":"4f16831533e960f61a3225703845123b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,5 +67,5 @@
     41.76139000000001,
     41.98417
 ],
-  "geometry": {"coordinates":[41.76139000000001,41.98417],"type":"Point"}
+  "geometry": {"coordinates":[41.76139,41.98417],"type":"Point"}
 }

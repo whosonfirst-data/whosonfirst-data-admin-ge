@@ -65,7 +65,7 @@
         "wk:page":"Ilori"
     },
     "wof:country":"GE",
-    "wof:geomhash":"4e6c39e95fbcab2b7482826c738a2aeb",
+    "wof:geomhash":"6d8d3b43bed60b157a8c42935c82273f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     41.5005,
     42.69609000000001
 ],
-  "geometry": {"coordinates":[41.5005,42.69609000000001],"type":"Point"}
+  "geometry": {"coordinates":[41.5005,42.69609],"type":"Point"}
 }

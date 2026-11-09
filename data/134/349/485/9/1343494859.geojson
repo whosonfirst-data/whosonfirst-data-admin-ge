@@ -90,7 +90,7 @@
         "wk:page":"Nikortsminda_Cathedral"
     },
     "wof:country":"GE",
-    "wof:geomhash":"a6819b82604952b5f590ab285413872b",
+    "wof:geomhash":"8d63ba714540c0449dcee397e882070c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,5 +116,5 @@
     43.09183,
     42.46194000000001
 ],
-  "geometry": {"coordinates":[43.09183,42.46194000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.09183,42.46194],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "gn:id":612170
     },
     "wof:country":"GE",
-    "wof:geomhash":"bc3a791ef2b446c1b721a9c29cd61f3a",
+    "wof:geomhash":"341fb916f5d41f21785f502c471d948f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     42.98062,
     42.02934000000001
 ],
-  "geometry": {"coordinates":[42.98062,42.02934000000001],"type":"Point"}
+  "geometry": {"coordinates":[42.98062,42.02934],"type":"Point"}
 }
