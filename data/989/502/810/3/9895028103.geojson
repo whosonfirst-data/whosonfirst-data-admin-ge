@@ -1,0 +1,74 @@
+{
+  "id": 9895028103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76455,42.01913,44.76455,42.01913",
+    "geom:latitude":42.01913,
+    "geom:longitude":44.76455,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109872: name \"Abanoskhevi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109872"
+        },
+        {
+            "citation":"GeoNames populated place 12109872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109872"
+        },
+        {
+            "citation":"GeoNames populated place 12109872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109872"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691275 (Dusheti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691275,
+        1108805943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109872
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"31e947f920a50e8ec72454bbaf9b2074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":9895028103,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":9895028103,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Abanoskhevi",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76455,
+    42.01913,
+    44.76455,
+    42.01913
+],
+  "geometry": {"coordinates":[44.76455,42.01913],"type":"Point"}
+}

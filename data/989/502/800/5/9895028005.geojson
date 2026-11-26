@@ -1,0 +1,74 @@
+{
+  "id": 9895028005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92136,42.10127,42.92136,42.10127",
+    "geom:latitude":42.10127,
+    "geom:longitude":42.92136,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 613003: name \"Meore Sviri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/613003"
+        },
+        {
+            "citation":"GeoNames populated place 613003: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/613003"
+        },
+        {
+            "citation":"GeoNames populated place 613003: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/613003"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691399 (Zestafoni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691399,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613003
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f75ae3da4df421566206f4864971499c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691399,
+            "locality_id":9895028005,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028005,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Meore Sviri",
+    "wof:parent_id":1108691399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92136,
+    42.10127,
+    42.92136,
+    42.10127
+],
+  "geometry": {"coordinates":[42.92136,42.10127],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895028007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03611,42.08744,42.03611,42.08744",
+    "geom:latitude":42.08744,
+    "geom:longitude":42.03611,
+    "gn:population":6214,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 613311: name \"Lanchkhuti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/613311"
+        },
+        {
+            "citation":"GeoNames populated place 613311: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/613311"
+        },
+        {
+            "citation":"GeoNames populated place 613311: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/613311"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691327 (Lanchkhuti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691327,
+        1108805955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613311
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"531fcfa29ad658d8c1ca1e39f5487a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691327,
+            "locality_id":9895028007,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":9895028007,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Lanchkhuti",
+    "wof:parent_id":1108691327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03611,
+    42.08744,
+    42.03611,
+    42.08744
+],
+  "geometry": {"coordinates":[42.03611,42.08744],"type":"Point"}
+}

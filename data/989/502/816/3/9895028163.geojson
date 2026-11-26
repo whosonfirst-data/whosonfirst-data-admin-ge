@@ -1,0 +1,74 @@
+{
+  "id": 9895028163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43523,42.11949,43.43523,42.11949",
+    "geom:latitude":42.11949,
+    "geom:longitude":43.43523,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12119807: name \"Golisi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12119807"
+        },
+        {
+            "citation":"GeoNames populated place 12119807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12119807"
+        },
+        {
+            "citation":"GeoNames populated place 12119807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12119807"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691303 (Kharagauli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691303,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12119807
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1ffedfc92da68a3cbd4d2afee3cdb19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":9895028163,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028163,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Golisi",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43523,
+    42.11949,
+    43.43523,
+    42.11949
+],
+  "geometry": {"coordinates":[43.43523,42.11949],"type":"Point"}
+}

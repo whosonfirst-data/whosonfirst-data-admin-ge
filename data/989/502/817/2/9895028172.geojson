@@ -1,0 +1,74 @@
+{
+  "id": 9895028172,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.69256,43.09896,42.69256,43.09896",
+    "geom:latitude":43.09896,
+    "geom:longitude":42.69256,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13299001: name \"Koruldi Ridge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13299001"
+        },
+        {
+            "citation":"GeoNames populated place 13299001: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13299001"
+        },
+        {
+            "citation":"GeoNames populated place 13299001: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13299001"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691335 (Mestia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691335,
+        1108805935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13299001
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"046fb6602a56d667792b2a49da2a2784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":9895028172,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":9895028172,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Koruldi Ridge",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.69256,
+    43.09896,
+    42.69256,
+    43.09896
+],
+  "geometry": {"coordinates":[42.69256,43.09896],"type":"Point"}
+}

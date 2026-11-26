@@ -1,0 +1,74 @@
+{
+  "id": 9895028064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18852,42.00573,43.18852,42.00573",
+    "geom:latitude":42.00573,
+    "geom:longitude":43.18852,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109802: name \"Islari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109802"
+        },
+        {
+            "citation":"GeoNames populated place 12109802: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109802"
+        },
+        {
+            "citation":"GeoNames populated place 12109802: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109802"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691303 (Kharagauli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691303,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109802
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a2544ab78c7c435a7cd9fd095832575a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":9895028064,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028064,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Islari",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18852,
+    42.00573,
+    43.18852,
+    42.00573
+],
+  "geometry": {"coordinates":[43.18852,42.00573],"type":"Point"}
+}

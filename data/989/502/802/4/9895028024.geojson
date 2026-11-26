@@ -1,0 +1,74 @@
+{
+  "id": 9895028024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18179,41.64642,42.18179,41.64642",
+    "geom:latitude":41.64642,
+    "geom:longitude":42.18179,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109718: name \"Ternali\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109718"
+        },
+        {
+            "citation":"GeoNames populated place 12109718: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109718"
+        },
+        {
+            "citation":"GeoNames populated place 12109718: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109718"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691363 (Shuakhevi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691363,
+        1108805947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109718
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dd1891a1533695fbfa43f41c52706453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691363,
+            "locality_id":9895028024,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":9895028024,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Ternali",
+    "wof:parent_id":1108691363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18179,
+    41.64642,
+    42.18179,
+    41.64642
+],
+  "geometry": {"coordinates":[42.18179,41.64642],"type":"Point"}
+}

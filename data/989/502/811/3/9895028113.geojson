@@ -1,0 +1,74 @@
+{
+  "id": 9895028113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00166,42.21689,45.00166,42.21689",
+    "geom:latitude":42.21689,
+    "geom:longitude":45.00166,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109886: name \"Sakhevi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109886"
+        },
+        {
+            "citation":"GeoNames populated place 12109886: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109886"
+        },
+        {
+            "citation":"GeoNames populated place 12109886: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109886"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691381 (Tianeti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691381,
+        1108805943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109886
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2c9b27863f82bf93f0c1a569fd6949bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":9895028113,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":9895028113,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Sakhevi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00166,
+    42.21689,
+    45.00166,
+    42.21689
+],
+  "geometry": {"coordinates":[45.00166,42.21689],"type":"Point"}
+}

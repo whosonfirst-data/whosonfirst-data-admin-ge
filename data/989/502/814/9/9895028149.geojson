@@ -1,0 +1,74 @@
+{
+  "id": 9895028149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41252,41.86649,44.41252,41.86649",
+    "geom:latitude":41.86649,
+    "geom:longitude":44.41252,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109949: name \"Shua Ubani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109949"
+        },
+        {
+            "citation":"GeoNames populated place 12109949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109949"
+        },
+        {
+            "citation":"GeoNames populated place 12109949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109949"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691297 (Kaspi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691297,
+        1108805941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109949
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4bea4c4a35fa8309ed2e1a157e08e085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":9895028149,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":9895028149,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Shua Ubani",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41252,
+    41.86649,
+    44.41252,
+    41.86649
+],
+  "geometry": {"coordinates":[44.41252,41.86649],"type":"Point"}
+}

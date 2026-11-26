@@ -1,0 +1,74 @@
+{
+  "id": 9895028009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06285,41.99527,42.06285,41.99527",
+    "geom:latitude":41.99527,
+    "geom:longitude":42.06285,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 613555: name \"Kveda Dzimiti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/613555"
+        },
+        {
+            "citation":"GeoNames populated place 613555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/613555"
+        },
+        {
+            "citation":"GeoNames populated place 613555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/613555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691347 (Ozurgeti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691347,
+        1108805955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613555
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0b492ecf110a50033b27859bcf32eb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":9895028009,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":9895028009,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Kveda Dzimiti",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06285,
+    41.99527,
+    42.06285,
+    41.99527
+],
+  "geometry": {"coordinates":[42.06285,41.99527],"type":"Point"}
+}

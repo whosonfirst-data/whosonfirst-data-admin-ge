@@ -1,0 +1,74 @@
+{
+  "id": 9895028006,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88389,42.10361,42.88389,42.10361",
+    "geom:latitude":42.10361,
+    "geom:longitude":42.88389,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 613007: name \"Meore Obcha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/613007"
+        },
+        {
+            "citation":"GeoNames populated place 613007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/613007"
+        },
+        {
+            "citation":"GeoNames populated place 613007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/613007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691255 (Bagdati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691255,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613007
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"985bc48ec3d92851c67d576786a178ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691255,
+            "locality_id":9895028006,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028006,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Meore Obcha",
+    "wof:parent_id":1108691255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88389,
+    42.10361,
+    42.88389,
+    42.10361
+],
+  "geometry": {"coordinates":[42.88389,42.10361],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5094,41.3802,44.5094,41.3802",
+    "geom:latitude":41.3802,
+    "geom:longitude":44.5094,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 615420: name \"Bolnisi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/615420"
+        },
+        {
+            "citation":"GeoNames populated place 615420: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/615420"
+        },
+        {
+            "citation":"GeoNames populated place 615420: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/615420"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691259 (Bolnisi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691259,
+        1108805951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615420
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"af8681d44a9d9bbe27b5fd2ef00db856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":9895028014,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":9895028014,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Bolnisi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5094,
+    41.3802,
+    44.5094,
+    41.3802
+],
+  "geometry": {"coordinates":[44.5094,41.3802],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36398,42.27265,43.36398,42.27265",
+    "geom:latitude":42.27265,
+    "geom:longitude":43.36398,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109792: name \"Begiauri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109792"
+        },
+        {
+            "citation":"GeoNames populated place 12109792: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109792"
+        },
+        {
+            "citation":"GeoNames populated place 12109792: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109792"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691263 (Chiatura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691263,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109792
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4d3868501c0f89bc3691d315650f6441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":9895028061,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028061,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Begiauri",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36398,
+    42.27265,
+    43.36398,
+    42.27265
+],
+  "geometry": {"coordinates":[43.36398,42.27265],"type":"Point"}
+}

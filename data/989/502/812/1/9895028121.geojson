@@ -1,0 +1,74 @@
+{
+  "id": 9895028121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.77345,42.66906,42.77345,42.66906",
+    "geom:latitude":42.66906,
+    "geom:longitude":42.77345,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109899: name \"Naghomari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109899"
+        },
+        {
+            "citation":"GeoNames populated place 12109899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109899"
+        },
+        {
+            "citation":"GeoNames populated place 12109899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109899"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691329 (Lentekhi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691329,
+        1108805959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109899
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b00dafd99705a2a89d0819ac8a6e009b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":9895028121,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":9895028121,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Naghomari",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.77345,
+    42.66906,
+    42.77345,
+    42.66906
+],
+  "geometry": {"coordinates":[42.77345,42.66906],"type":"Point"}
+}
