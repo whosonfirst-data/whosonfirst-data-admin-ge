@@ -1,0 +1,74 @@
+{
+  "id": 9895028059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.6006,42.4107,42.6006,42.4107",
+    "geom:latitude":42.4107,
+    "geom:longitude":42.6006,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109789: name \"Gaghma Chuneshi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109789"
+        },
+        {
+            "citation":"GeoNames populated place 12109789: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109789"
+        },
+        {
+            "citation":"GeoNames populated place 12109789: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109789"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691391 (Tskaltubo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691391,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109789
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"309d57437f6fb95393454ff5f0b8ed82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691391,
+            "locality_id":9895028059,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028059,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Gaghma Chuneshi",
+    "wof:parent_id":1108691391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.6006,
+    42.4107,
+    42.6006,
+    42.4107
+],
+  "geometry": {"coordinates":[42.6006,42.4107],"type":"Point"}
+}

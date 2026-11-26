@@ -1,0 +1,74 @@
+{
+  "id": 9895028133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23359,42.35478,42.23359,42.35478",
+    "geom:latitude":42.35478,
+    "geom:longitude":42.23359,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109920: name \"Lebaghature\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109920"
+        },
+        {
+            "citation":"GeoNames populated place 12109920: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109920"
+        },
+        {
+            "citation":"GeoNames populated place 12109920: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109920"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691359 (Senaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691359,
+        1108805935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109920
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"04750051bcd52d63075567a6825b2c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":9895028133,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":9895028133,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Lebaghature",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23359,
+    42.35478,
+    42.23359,
+    42.35478
+],
+  "geometry": {"coordinates":[42.23359,42.35478],"type":"Point"}
+}

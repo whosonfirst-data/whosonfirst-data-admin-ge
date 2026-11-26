@@ -1,0 +1,74 @@
+{
+  "id": 9895028183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01075,41.98254,44.01075,41.98254",
+    "geom:latitude":41.98254,
+    "geom:longitude":44.01075,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13447742: name \"Rieti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13447742"
+        },
+        {
+            "citation":"GeoNames populated place 13447742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13447742"
+        },
+        {
+            "citation":"GeoNames populated place 13447742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13447742"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691283 (Gori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691283,
+        1108805941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13447742
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"73eb760ceb4d9c3903b1041ef318e6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":9895028183,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":9895028183,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Rieti",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01075,
+    41.98254,
+    44.01075,
+    41.98254
+],
+  "geometry": {"coordinates":[44.01075,41.98254],"type":"Point"}
+}

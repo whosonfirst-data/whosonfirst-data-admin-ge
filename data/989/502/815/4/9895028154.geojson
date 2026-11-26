@@ -1,0 +1,74 @@
+{
+  "id": 9895028154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72829,42.12564,43.72829,42.12564",
+    "geom:latitude":42.12564,
+    "geom:longitude":43.72829,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109957: name \"Abano\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109957"
+        },
+        {
+            "citation":"GeoNames populated place 12109957: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109957"
+        },
+        {
+            "citation":"GeoNames populated place 12109957: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109957"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691295 (Kareli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691295,
+        1108805941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109957
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d5893d4b4459a9157db53bc207c34b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":9895028154,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":9895028154,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Abano",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72829,
+    42.12564,
+    43.72829,
+    42.12564
+],
+  "geometry": {"coordinates":[43.72829,42.12564],"type":"Point"}
+}

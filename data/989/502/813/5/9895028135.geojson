@@ -1,0 +1,74 @@
+{
+  "id": 9895028135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71836,41.66562,42.71836,41.66562",
+    "geom:latitude":41.66562,
+    "geom:longitude":42.71836,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109923: name \"Imertubani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109923"
+        },
+        {
+            "citation":"GeoNames populated place 12109923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109923"
+        },
+        {
+            "citation":"GeoNames populated place 12109923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691239 (Adigeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691239,
+        1108805953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109923
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"66deb64b921525cb14b55581c466feb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":9895028135,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":9895028135,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Imertubani",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71836,
+    41.66562,
+    42.71836,
+    41.66562
+],
+  "geometry": {"coordinates":[42.71836,41.66562],"type":"Point"}
+}

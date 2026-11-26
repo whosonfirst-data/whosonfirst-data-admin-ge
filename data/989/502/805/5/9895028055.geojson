@@ -1,0 +1,74 @@
+{
+  "id": 9895028055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94873,42.25406,42.94873,42.25406",
+    "geom:latitude":42.25406,
+    "geom:longitude":42.94873,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109778: name \"Separeti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109778"
+        },
+        {
+            "citation":"GeoNames populated place 12109778: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109778"
+        },
+        {
+            "citation":"GeoNames populated place 12109778: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109778"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691375 (Terjola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691375,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109778
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"50f8ca1b138a9f5671a18e9c83ee992d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691375,
+            "locality_id":9895028055,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028055,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Separeti",
+    "wof:parent_id":1108691375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94873,
+    42.25406,
+    42.94873,
+    42.25406
+],
+  "geometry": {"coordinates":[42.94873,42.25406],"type":"Point"}
+}

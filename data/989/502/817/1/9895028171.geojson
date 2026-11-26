@@ -1,0 +1,74 @@
+{
+  "id": 9895028171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.70605,43.08683,42.70605,43.08683",
+    "geom:latitude":43.08683,
+    "geom:longitude":42.70605,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286847: name \"Korul'di\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286847"
+        },
+        {
+            "citation":"GeoNames populated place 13286847: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286847"
+        },
+        {
+            "citation":"GeoNames populated place 13286847: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286847"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691335 (Mestia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691335,
+        1108805935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286847
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d05d975f7a994895bf3fdecfd3ea4a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":9895028171,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":9895028171,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Korul'di",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.70605,
+    43.08683,
+    42.70605,
+    43.08683
+],
+  "geometry": {"coordinates":[42.70605,43.08683],"type":"Point"}
+}

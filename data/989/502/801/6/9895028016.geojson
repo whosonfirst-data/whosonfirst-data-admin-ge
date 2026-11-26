@@ -1,0 +1,75 @@
+{
+  "id": 9895028016,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34513,41.78987,45.34513,41.78987",
+    "geom:latitude":41.78987,
+    "geom:longitude":45.34513,
+    "gn:population":20,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11395744: name \"Koda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11395744"
+        },
+        {
+            "citation":"GeoNames populated place 11395744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11395744"
+        },
+        {
+            "citation":"GeoNames populated place 11395744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11395744"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691355 (Sagarejo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691355,
+        1108805939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395744
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f4ff4dc0d1038b92c5e19dedcce1a1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":9895028016,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":9895028016,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Koda",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34513,
+    41.78987,
+    45.34513,
+    41.78987
+],
+  "geometry": {"coordinates":[45.34513,41.78987],"type":"Point"}
+}

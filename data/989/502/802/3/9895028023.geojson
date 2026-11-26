@@ -1,0 +1,74 @@
+{
+  "id": 9895028023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92237,41.87039,41.92237,41.87039",
+    "geom:latitude":41.87039,
+    "geom:longitude":41.92237,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109714: name \"Jikhanjuri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109714"
+        },
+        {
+            "citation":"GeoNames populated place 12109714: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109714"
+        },
+        {
+            "citation":"GeoNames populated place 12109714: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109714"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691317 (Kobuleti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691317,
+        1108805947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109714
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9e6c30da9b6981eb5f15a32becf9b4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":9895028023,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":9895028023,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Jikhanjuri",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92237,
+    41.87039,
+    41.92237,
+    41.87039
+],
+  "geometry": {"coordinates":[41.92237,41.87039],"type":"Point"}
+}

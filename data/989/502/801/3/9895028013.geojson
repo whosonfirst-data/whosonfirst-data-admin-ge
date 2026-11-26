@@ -1,0 +1,75 @@
+{
+  "id": 9895028013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.93946,41.59948,41.93946,41.59948",
+    "geom:latitude":41.59948,
+    "geom:longitude":41.93946,
+    "gn:population":1055,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 614080: name \"Keda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/614080"
+        },
+        {
+            "citation":"GeoNames populated place 614080: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/614080"
+        },
+        {
+            "citation":"GeoNames populated place 614080: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/614080"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691301 (Keda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691301,
+        1108805947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614080
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"98cd66766f99cea3217d5e1a3a38f0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":9895028013,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":9895028013,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Keda",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.93946,
+    41.59948,
+    41.93946,
+    41.59948
+],
+  "geometry": {"coordinates":[41.93946,41.59948],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00383,41.83971,44.00383,41.83971",
+    "geom:latitude":41.83971,
+    "geom:longitude":44.00383,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109937: name \"Tkhinala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109937"
+        },
+        {
+            "citation":"GeoNames populated place 12109937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109937"
+        },
+        {
+            "citation":"GeoNames populated place 12109937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109937"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691283 (Gori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691283,
+        1108805941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109937
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1935ef9a6d018effeb96462abde3e4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":9895028145,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":9895028145,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Tkhinala",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00383,
+    41.83971,
+    44.00383,
+    41.83971
+],
+  "geometry": {"coordinates":[44.00383,41.83971],"type":"Point"}
+}

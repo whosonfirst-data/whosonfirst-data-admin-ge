@@ -1,0 +1,74 @@
+{
+  "id": 9895028096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43815,41.5159,44.43815,41.5159",
+    "geom:latitude":41.5159,
+    "geom:longitude":44.43815,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109856: name \"Zemo Akhalsheni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109856"
+        },
+        {
+            "citation":"GeoNames populated place 12109856: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109856"
+        },
+        {
+            "citation":"GeoNames populated place 12109856: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109856"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691377 (Tetri Tskaro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691377,
+        1108805951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109856
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3953034edfcd513945fd489cdc8d5f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":9895028096,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":9895028096,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Zemo Akhalsheni",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43815,
+    41.5159,
+    44.43815,
+    41.5159
+],
+  "geometry": {"coordinates":[44.43815,41.5159],"type":"Point"}
+}

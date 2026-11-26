@@ -1,0 +1,74 @@
+{
+  "id": 9895028052,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05181,42.205,43.05181,42.205",
+    "geom:latitude":42.205,
+    "geom:longitude":43.05181,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109771: name \"Shimshilakedi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109771"
+        },
+        {
+            "citation":"GeoNames populated place 12109771: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109771"
+        },
+        {
+            "citation":"GeoNames populated place 12109771: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109771"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691375 (Terjola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691375,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109771
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0596329572f7d8089aa05e37330096cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691375,
+            "locality_id":9895028052,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028052,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Shimshilakedi",
+    "wof:parent_id":1108691375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05181,
+    42.205,
+    43.05181,
+    42.205
+],
+  "geometry": {"coordinates":[43.05181,42.205],"type":"Point"}
+}

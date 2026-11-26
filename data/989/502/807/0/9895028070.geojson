@@ -1,0 +1,74 @@
+{
+  "id": 9895028070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.30021,41.95696,45.30021,41.95696",
+    "geom:latitude":41.95696,
+    "geom:longitude":45.30021,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109809: name \"Akhaldaba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109809"
+        },
+        {
+            "citation":"GeoNames populated place 12109809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109809"
+        },
+        {
+            "citation":"GeoNames populated place 12109809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109809"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691247 (Akhmeta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691247,
+        1108805939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109809
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"84871dd6f30a44116c5bdb7e7b5bdee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":9895028070,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":9895028070,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Akhaldaba",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.30021,
+    41.95696,
+    45.30021,
+    41.95696
+],
+  "geometry": {"coordinates":[45.30021,41.95696],"type":"Point"}
+}

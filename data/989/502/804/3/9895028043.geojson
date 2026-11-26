@@ -1,0 +1,73 @@
+{
+  "id": 9895028043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.99429,41.71279,44.99429,41.71279",
+    "geom:latitude":41.71279,
+    "geom:longitude":44.99429,
+    "gn:population":1509,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109753: name \"Nasaguri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109753"
+        },
+        {
+            "citation":"GeoNames populated place 12109753: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109753"
+        },
+        {
+            "citation":"GeoNames populated place 12109753: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109753"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1108805945 (Tbilisi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108805945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109753
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"98aa784cc5c6cdfec22e1c97089115d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "locality_id":9895028043,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":9895028043,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Nasaguri",
+    "wof:parent_id":1108805945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.99429,
+    41.71279,
+    44.99429,
+    41.71279
+],
+  "geometry": {"coordinates":[44.99429,41.71279],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88874,41.91649,42.88874,41.91649",
+    "geom:latitude":41.91649,
+    "geom:longitude":42.88874,
+    "iso:country":"GE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109764: name \"Kershaveti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109764"
+        },
+        {
+            "citation":"GeoNames populated place 12109764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109764"
+        },
+        {
+            "citation":"GeoNames populated place 12109764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109764"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108691255 (Bagdati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163,
+        102191569,
+        1108691255,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109764
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"93241750a229f376333ef21d4d20bd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691255,
+            "locality_id":9895028046,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":9895028046,
+    "wof:lastmodified":1795735070,
+    "wof:name":"Kershaveti",
+    "wof:parent_id":1108691255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88874,
+    41.91649,
+    42.88874,
+    41.91649
+],
+  "geometry": {"coordinates":[42.88874,41.91649],"type":"Point"}
+}
